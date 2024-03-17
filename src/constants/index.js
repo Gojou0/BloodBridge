@@ -18,8 +18,12 @@ export const navLinks = [
     title: "Clients",
   },
   {
-    id: "Login/SignUp",
-    title: "Login/SignUp"
+    id: "signup",
+    title: "SignUp as a Donors/Patient",
+  },
+  {
+    id: "h-signup",
+    title: "Signup as Hospital/NGOs",
   }
 ];
 

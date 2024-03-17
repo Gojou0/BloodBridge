@@ -1,4 +1,4 @@
-import styles from 'C:\\Users\\Harshit\\OneDrive\\Desktop\\BloodBridge\\BloodBridge\\src\\style';
+import styles from '../style';
 import { logo } from "../assets";
 import { footerLinks, socialMedia } from "../constants";
 
